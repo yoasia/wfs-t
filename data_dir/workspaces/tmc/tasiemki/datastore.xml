@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl-489a0385:15cb07e3c21:-7fff</id>
+  <name>tasiemki</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl--29c1794c:15cad14bfa1:-7ff9</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="charset">UTF-8</entry>
+    <entry key="filetype">shapefile</entry>
+    <entry key="create spatial index">true</entry>
+    <entry key="memory mapped buffer">false</entry>
+    <entry key="timezone">Europe/Belgrade</entry>
+    <entry key="enable spatial index">true</entry>
+    <entry key="namespace">http://localhost:8080/geoserver/wfs</entry>
+    <entry key="cache and reuse memory maps">true</entry>
+    <entry key="url">file:data/shapefiles/tasiemki.shp</entry>
+    <entry key="fstype">shape</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

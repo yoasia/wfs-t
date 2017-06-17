@@ -1,0 +1,1 @@
+call "C:\Program Files\Java\jre1.8.0_91\bin\java.exe" -DSTOP.PORT=8079 -DSTOP.KEY=geoserver -jar "C:\Program Files (x86)\GeoServer 2.11.1\start.jar" --stop

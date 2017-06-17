@@ -1,0 +1,1 @@
+call "C:\Program Files\Java\jre1.8.0_91\bin\java.exe" -DGEOSERVER_DATA_DIR="C:\Program Files (x86)\GeoServer 2.11.1\data_dir" -Xmx512m -DSTOP.PORT=8079 -DSTOP.KEY=geoserver -Djetty.base="C:\Program Files (x86)\GeoServer 2.11.1" -Djetty.logs="C:\Program Files (x86)\GeoServer 2.11.1\logs" -jar "C:\Program Files (x86)\GeoServer 2.11.1\start.jar" --module=http jetty.port=8080

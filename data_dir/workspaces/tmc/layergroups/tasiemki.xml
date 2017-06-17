@@ -1,0 +1,31 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-10a40637:15cb1a251b7:-7fde</id>
+  <name>tasiemki</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl--29c1794c:15cad14bfa1:-7ff9</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--29c1794c:15cad14bfa1:-7fdb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-10a40637:15cb1a251b7:-7fe2</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-10a40637:15cb1a251b7:-7fdf</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>-2.0037508342789244E7</minx>
+    <maxx>2.0037508342789244E7</maxx>
+    <miny>-2.00489661040146E7</miny>
+    <maxy>2.0048966104014594E7</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </bounds>
+</layerGroup>

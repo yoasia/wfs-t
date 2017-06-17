@@ -1,0 +1,47 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-10a40637:15cb1a251b7:-7fe0</id>
+  <name>tasiemki_p</name>
+  <nativeName>tasiemki_p</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--29c1794c:15cad14bfa1:-7ff8</id>
+  </namespace>
+  <title>tasiemki_p</title>
+  <keywords>
+    <string>features</string>
+    <string>tasiemki_p</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, &#xd;
+  DATUM[&quot;World Geodetic System 1984&quot;, &#xd;
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], &#xd;
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], &#xd;
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], &#xd;
+  UNIT[&quot;degree&quot;, 0.017453292519943295], &#xd;
+  AXIS[&quot;Geodetic longitude&quot;, EAST], &#xd;
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], &#xd;
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>18.51921970207841</minx>
+    <maxx>18.628734387670576</maxx>
+    <miny>54.379977129409674</miny>
+    <maxy>54.413341388732064</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>18.51921970207841</minx>
+    <maxx>18.628734387670576</maxx>
+    <miny>54.379977129409674</miny>
+    <maxy>54.413341388732064</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-10a40637:15cb1a251b7:-7fe1</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>true</circularArcPresent>
+</featureType>

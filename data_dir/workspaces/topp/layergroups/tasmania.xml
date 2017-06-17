@@ -1,0 +1,47 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-10a40637:15cb1a251b7:-7fe5</id>
+  <name>tasmania</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-10a40637:15cb1a251b7:-7ff4</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-10a40637:15cb1a251b7:-7ff0</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-10a40637:15cb1a251b7:-7fed</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-10a40637:15cb1a251b7:-7fe9</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-10a40637:15cb1a251b7:-7fe6</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>143.83482400000003</minx>
+    <maxx>148.47914100000003</maxx>
+    <miny>-43.648056</miny>
+    <maxy>-39.573891</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layerGroup>
