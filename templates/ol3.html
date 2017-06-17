@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html, body {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;}
+.map {
+	height: 100%;
+	width: 100%;}
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.16.0/ol.js"></script>
+</head>
+<body>
+<div id="map" class="map"></div>
+</body>
+<script type="text/javascript">
+map = new ol.Map({
+  target: 'map',
+  controls: [],
+  layers: [new ol.layer.Tile({
+    source: new ol.source.OSM()
+  })],
+  view: new ol.View({
+    center: ol.proj.fromLonLat([-1.7, 53.2]),
+    zoom: 6
+  })
+});
+</script>
+</html>
